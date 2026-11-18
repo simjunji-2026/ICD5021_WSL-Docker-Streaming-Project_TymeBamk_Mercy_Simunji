@@ -24,3 +24,7 @@ python3 gold.py
 
 ## Tech
 Python, Apache Kafka (Docker), kafka-python, Pandas, Parquet, WSL Ubuntu
+
+## Demo Video 
+Watch the demo here: https://drive.google.com/file/d/1vMupJexOIPTUSPV5-LlciqAg0mjPSNo8/view?usp=sharing
+
